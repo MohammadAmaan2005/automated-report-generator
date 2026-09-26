@@ -30,19 +30,22 @@ automated-report-generator/
 
 ## Technologies Used
 
-Python 3
-JSON
-File Handling
-String Methods
-Lists
-Dictionaries
-Sets
-Exception Handling
+- Python 3
+- JSON
+- File Handling
+- String Methods
+- Lists
+- Dictionaries
+- Sets
+- Exception Handling
 
 No external Python libraries are required.
 
 ## How It Works
 
+## How It Works
+
+```text
 Raw TXT File
      ↓
 Read File
@@ -60,6 +63,7 @@ Create Dictionaries
 Generate Summary
      ↓
 Create report.json
+```
 
 ## How to Run
 
@@ -75,11 +79,14 @@ report.json
 
 The generated report contains:
 
-Total number of startups
-Number of unique cities
-Number of unique industries
-Structured startup records
+- Total number of startups
+- Number of unique cities
+- Number of unique industries
+- Structured startup records
 
+-Example 
+
+```json
 {
     "report_summary": {
         "total_startups": 8,
@@ -95,6 +102,7 @@ Structured startup records
         }
     ]
 }
+```
 
 ## Internship Challenge
 
