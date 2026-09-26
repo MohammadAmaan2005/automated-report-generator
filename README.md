@@ -43,8 +43,6 @@ No external Python libraries are required.
 
 ## How It Works
 
-## How It Works
-
 ```text
 Raw TXT File
      ↓
