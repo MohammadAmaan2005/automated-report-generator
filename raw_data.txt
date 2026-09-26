@@ -1,0 +1,16 @@
+ST001,   novaBYTE technologies   , AI & MACHINE LEARNING , LUCKNOW
+
+ST002,  FinEdge solutions, fintech ,   MUMBAI
+
+ST003,   GreenOrbit  Labs , clean energy, DELHI
+
+ST004,CodeNest  Innovations , SOFTWARE DEVELOPMENT  ,   BENGALURU
+
+
+ST005,   HealthSync   systems, HEALTH TECH , Hyderabad
+
+ST006,  pixelPULSE media  , digital marketing,   PUNE
+
+ST007,   AgroVision AI,  AGRICULTURE TECHNOLOGY  , LUCKNOW
+
+ST008,  cloudNEXUS technologies , CLOUD COMPUTING,  NOIDA

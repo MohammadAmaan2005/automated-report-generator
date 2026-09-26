@@ -1,0 +1,57 @@
+{
+    "report_summary": {
+        "total_startups": 8,
+        "unique_cities": 7,
+        "unique_industries": 8
+    },
+    "startups": [
+        {
+            "id": "ST001",
+            "company": "Novabyte Technologies",
+            "industry": "ai & machine learning",
+            "city": "Lucknow"
+        },
+        {
+            "id": "ST002",
+            "company": "Finedge Solutions",
+            "industry": "fintech",
+            "city": "Mumbai"
+        },
+        {
+            "id": "ST003",
+            "company": "Greenorbit  Labs",
+            "industry": "clean energy",
+            "city": "Delhi"
+        },
+        {
+            "id": "ST004",
+            "company": "Codenest  Innovations",
+            "industry": "software development",
+            "city": "Bengaluru"
+        },
+        {
+            "id": "ST005",
+            "company": "Healthsync   Systems",
+            "industry": "health tech",
+            "city": "Hyderabad"
+        },
+        {
+            "id": "ST006",
+            "company": "Pixelpulse Media",
+            "industry": "digital marketing",
+            "city": "Pune"
+        },
+        {
+            "id": "ST007",
+            "company": "Agrovision Ai",
+            "industry": "agriculture technology",
+            "city": "Lucknow"
+        },
+        {
+            "id": "ST008",
+            "company": "Cloudnexus Technologies",
+            "industry": "cloud computing",
+            "city": "Noida"
+        }
+    ]
+}
